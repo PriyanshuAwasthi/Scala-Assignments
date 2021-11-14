@@ -1,9 +1,9 @@
 object Conversion {
     def main(args: Array[String]):Unit= {
         println("|=====================|")
-        println("|Name : Himanshu Negi |")
+        println("|Name : Priyanshu Awasthi |")
         println("|Section : DS         |")
-        println("|Roll No : 32         |")
+        println("|Roll No : 49         |")
         println("|=====================|")
         println("Enter choice\n1. Farenheit to Celsius")
         println("2. Inches to meters\n3. Years to days\n");
